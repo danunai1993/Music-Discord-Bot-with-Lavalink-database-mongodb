@@ -1,0 +1,23 @@
+{
+    "token": "ODY2MDExODE1ODQ5NDkyNDgw.YPMWWg.tkBw9hM0xOZdCJxsPRMxOj3YJ10", 
+    "prefix": "!",
+	  "ksoftapi": "",   
+    "ownerID": "491577179495333903",
+    "SpotifyID": "cd0b4d2ef09e4186ac41d04273671c35",
+    "SpotifySecret": "5676886242084320ba25b8ef9821df4d",
+    "mongourl": "mongodb+srv://loxy:loxybot@cluster0.p2zxg.mongodb.net/test",
+    "embedColor": "BLUE",
+     "nodes": [
+    
+    {
+     
+      "host": "disbotlistlavalink.ml",
+      "port": 443,
+      "password": "LAVA",
+      "identifier": "DisBotlist Lavalink",
+      "retryDelay": 3000,
+      "secure": true
+    
+    }
+  ]
+}
