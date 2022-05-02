@@ -31,6 +31,6 @@ require("./handler/Client")(client);
 
 
 
-client.login('ODY1NDU5Njc5MTgxNjY4Mzgy.YPEUIg.E_ahPQWkFBKv1tvRgJv-BDfJ7TQ');
+client.login('token');
 
 
